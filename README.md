@@ -8,27 +8,27 @@ This repository contains the comprehensive project on Northeastern University St
 
 1. **Extended Entity Relationship Model (EER)**
    ![EER Model](EER.png)
-   - Showcases specializations in the products table.
+   Showcases specializations in the products table.
 
 2. **Relational Model**
    ![Relational Model](Relational_Model.png)
-   - Demonstrates effective normalization of the database.
+   Demonstrates effective normalization of the database.
 
 3. **MongoDB Hosting**
     ![MongoDB Hosting](MongoDB_Host.png)
-   - Displays the hosting of tables on MongoDB Compass.
+   Displays the hosting of tables on MongoDB Compass.
 
 4. **Data Visualization - Standard Deviation**
    ![Standard Deviation Visualization](Dataviz_StandardDeviation.png)
-   - Connects MYSQL database to Python Jupyter notebook, displaying a line chart showing price distribution with respect to standard deviation.
+   Connects MYSQL database to Python Jupyter notebook, displaying a line chart showing price distribution with respect to standard deviation.
 
 5. **Product Prices Analysis**
     ![Product Prices Analysis](Prices_Products.png)
-   - Illustrates maximum and minimum prices of products stored in each category.
+   Illustrates maximum and minimum prices of products stored in each category.
 
 6. **Advanced SQL Queries Using Python**
     ![SQL Queries](SqlQueries.png)
-   - Exhibits advanced SQL queries retrieving buyer numbers and order numbers for those who purchased furniture.
+   Exhibits advanced SQL queries retrieving buyer numbers and order numbers for those who purchased furniture.
 
 ## 🚀 Insights, Recommendations, and Key Conclusions
 
