@@ -7,27 +7,27 @@ This repository contains the comprehensive project on Northeastern University St
 ### 📈 Database Models & Data Visualization
 
 1. **Extended Entity Relationship Model (EER)**
-   - ![EER Model](EER.png)
+   ![EER Model](EER.png)
    - Showcases specializations in the products table.
 
 2. **Relational Model**
-   - ![Relational Model](Relational_Model.png)
+   ![Relational Model](Relational_Model.png)
    - Demonstrates effective normalization of the database.
 
 3. **MongoDB Hosting**
-   - ![MongoDB Hosting](MongoDB_Host.png)
+    ![MongoDB Hosting](MongoDB_Host.png)
    - Displays the hosting of tables on MongoDB Compass.
 
 4. **Data Visualization - Standard Deviation**
-   - ![Standard Deviation Visualization](Dataviz_StandardDeviation.png)
+   ![Standard Deviation Visualization](Dataviz_StandardDeviation.png)
    - Connects MYSQL database to Python Jupyter notebook, displaying a line chart showing price distribution with respect to standard deviation.
 
 5. **Product Prices Analysis**
-   - ![Product Prices Analysis](Prices_Products.png)
+    ![Product Prices Analysis](Prices_Products.png)
    - Illustrates maximum and minimum prices of products stored in each category.
 
-6. **Advanced SQL Queries**
-   - ![SQL Queries](SqlQueries.png)
+6. **Advanced SQL Queries Using Python**
+    ![SQL Queries](SqlQueries.png)
    - Exhibits advanced SQL queries retrieving buyer numbers and order numbers for those who purchased furniture.
 
 ## 🚀 Insights, Recommendations, and Key Conclusions
@@ -72,6 +72,7 @@ The Northeastern University Student Shopper Analytics project draws key conclusi
      
 3. **Efficient Database Management:**
    - The extended entity relationship model (EER) and relational model demonstrate effective database management, providing a solid foundation for the application.
+
 
 
 --Author: **Siddhant Sunil Chavan**
