@@ -1,34 +1,36 @@
+<div align="center" style="background-color:#f5f5f5; padding: 20px;">
+
 # 📊 Northeastern University Student Shopper Analytics
 
 ## 🌐 Overview
 
 This repository contains the comprehensive project on Northeastern University Student Shopper Analytics, addressing the unique challenges faced by students when relocating for education. The application serves as a versatile platform for the exchange of various household products, including furniture, kitchen appliances, and clothing.
 
-### 📈 Database Models & Data Visualization
+### 📈 Database Models
 
 1. **Extended Entity Relationship Model (EER)**
-   ![EER Model](EER.png)
-   Showcases specializations in the products table.
+   - ![EER Model](EER.png)
+   - Showcases specializations in the products table.
 
 2. **Relational Model**
-   ![Relational Model](Relational_Model.png)
-   Demonstrates effective normalization of the database.
+   - ![Relational Model](Relational_Model.png)
+   - Demonstrates effective normalization of the database.
 
 3. **MongoDB Hosting**
-    ![MongoDB Hosting](MongoDB_Host.png)
-   Displays the hosting of tables on MongoDB Compass.
+   - ![MongoDB Hosting](MongoDB_Host.png)
+   - Displays the hosting of tables on MongoDB Compass.
 
 4. **Data Visualization - Standard Deviation**
-   ![Standard Deviation Visualization](Dataviz_StandardDeviation.png)
-   Connects MYSQL database to Python Jupyter notebook, displaying a line chart showing price distribution with respect to standard deviation.
+   - ![Standard Deviation Visualization](Dataviz_StandardDeviation.png)
+   - Connects MYSQL database to Python Jupyter notebook, displaying a line chart showing price distribution with respect to standard deviation.
 
 5. **Product Prices Analysis**
-    ![Product Prices Analysis](Prices_Products.png)
-   Illustrates maximum and minimum prices of products stored in each category.
+   - ![Product Prices Analysis](Prices_products.png)
+   - Illustrates maximum and minimum prices of products stored in each category.
 
-6. **Advanced SQL Queries Using Python**
-    ![SQL Queries](SqlQueries.png)
-   Exhibits advanced SQL queries retrieving buyer numbers and order numbers for those who purchased furniture.
+6. **Advanced SQL Queries**
+   - ![SQL Queries](sqlQueries.png)
+   - Exhibits advanced SQL queries retrieving buyer numbers and order numbers for those who purchased furniture.
 
 ## 🚀 Insights, Recommendations, and Key Conclusions
 
@@ -68,11 +70,6 @@ The Northeastern University Student Shopper Analytics project draws key conclusi
    - The application significantly contributes to the overall student experience by addressing the unique challenges of relocating for education.
 
 2. **Safety and Security:**
-   - The incorporation of user verification processes using Northeastern IDs and emails mitigates the risks associated with scams and and fraudulent activities, ensuring a trustworthy environment.
-     
-3. **Efficient Database Management:**
-   - The extended entity relationship model (EER) and relational model demonstrate effective database management, providing a solid foundation for the application.
+   - The incorporation of user verification processes using Northeastern IDs and emails mitigates the risks associated with scams and fraudulent activities, ensuring a trustworthy environment.
 
-
-
---Author: **Siddhant Sunil Chavan**
+</div>
